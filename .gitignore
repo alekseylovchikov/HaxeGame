@@ -1,0 +1,24 @@
+# Build output
+/export/
+bin/
+html5/bin/
+html5/bin/*
+
+# IDEs
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Haxe and haxelib cache
+.haxelib/
+*.hxml~  # временные файлы
+
+# Logs
+*.log
+
+# Generated JS
+*.js
+*.js.map
